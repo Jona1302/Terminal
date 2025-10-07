@@ -16,7 +16,7 @@
 
  - my repo
     
-       git clone https://github.com/Jona1302/My-Dotfiles.git
+       git clone https://github.com/Jona1302/Terminal-Arch-Hyprland
 
 - oh-my-zsh
      
@@ -42,7 +42,7 @@
 !!!MAKE SURE THAT YOU ARE IN THE (MY-DOTFILES) DIRECTORY!!!
 
 
-         cd Terminal &&
+         cd Terminal-Arch-Hyprland &&
          cp -r kitty/ ~/.config
          cp .p10k.zsh .zshrc ~/
 
