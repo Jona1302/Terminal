@@ -2,7 +2,8 @@
  
  - yay:
 
-       yay -S pfetch
+       yay -S pfetch zsh
+   
 * If you dont have yay installed, [Click me](https://github.com/Jguer/yay) after you followed this guide you can delete the yay folder
   
   - Or just run this(thats from the website)
