@@ -41,18 +41,8 @@
 
 !!!MAKE SURE THAT YOU ARE IN THE (MY-DOTFILES) DIRECTORY!!!
 
+
+         cd Terminal &&
          cp -r kitty/ ~/.config
          cp .p10k.zsh .zshrc ~/
-
-
-**5. Last but no least we have to chainge the shell from bash to zsh by running:**
-
-- change shell
-
-      chsh -s $(which zsh)
-
-- change shell(for root)
-
-      sudo chsh -s $(which zsh)
-
 
